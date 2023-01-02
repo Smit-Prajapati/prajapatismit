@@ -259,6 +259,12 @@ img {
   right: 10px;
   border: 10px solid #001925;
 }
+
+@media (max-width: 700px) {
+  .mail-button1 {
+    right: 25px;
+  }
+}
 .mail-button1:hover {
   background-color: #001925;
 }
