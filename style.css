@@ -766,7 +766,7 @@ img {
 .testimonials .box .flex-container-testimonials .image-container img {
   -o-object-position: center top;
   object-position: center top;
-  transform: scale(1.6);
+  transform: scale(1);
   transform-origin: top center;
 }
 
