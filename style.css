@@ -1190,6 +1190,7 @@ img {
 .form-container .form-image model-viewer {
   height: 100%;
   width: 100%;
+  z-index:-99;
 }
 
 .form-container .form {
